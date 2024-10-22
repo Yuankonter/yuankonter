@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    
+     <title>Intall - Aplikasi WACENTER</title>
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+    
+    <style type="text/css">
+      body{
+        background-color: #E8EDF1;
+      }.nomor{
+        /*background-image: url('https://i.ibb.co/sJDg5CX/Desain-tanpa-judul-1.png');*/
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;
+        color: #0D89ED;
+        font-weight: bold;
+      }.text{
+        color: #0D89ED;
+        font-size: 20px;
+/*        font-weight: bold;*/
+      }.atas{
+      	width: 100%;
+      	background-color: #000;
+      	border-bottom-left-radius: 10px ;
+      	border-bottom-right-radius: 10px;
+      	/*background-image: url('https://i.ibb.co/nDv3BNw/Desain-tanpa-judul-2.png');
+      	background-repeat: no-repeat;*/
+      	background-position: top;
+      	background-position-x: 10px;
+      	background-position-y: -30px;
+      	background-size: 45%;
+        color: white;
+        text-align: center;
+      }.card{
+/*      	background-color: #0D89ED;*/
+/*      	color: white;*/
+      	border: none;
+      }.atas-modal{
+      	background-color: #0D89ED;
+      	text-align: center;
+      	color: white;
+      	font-size: 40px;
+      }.bn{
+        background-color: #0D89ED;
+      }
+    </style>
+  </head>
+  <body>
+  	<div class="atas container mb-3 fw-bold">
+        <img src="https://zonamaster.my.id/img/logozonamaster.png" width="20%"><br>
+  		WACENTER<BR>
+        <font size="1%">By ZonaMaster Ecosystem</font>
+  		<br><br>
+  	</div>
+  	
+  	<style>    
+    .bounce {
+  display: inline-block;
+  position: relative;
+  -moz-animation: bounce 1s infinite linear;
+  -o-animation: bounce 1s infinite linear;
+  -webkit-animation: bounce 1s infinite linear;
+  animation: bounce 1s infinite linear;
+  colr:000;
+}
+.fa-wallet{
+ 	color: #fff;
+  font-size: 19px;
+  margin-left:0%;
+  
+}
+
+
+
+@-webkit-keyframes bounce {
+    0% { top: 0; }
+    15% { top: -0.1em; }
+    30% { top: -0.2em; }    
+    50% { top: -0.3em; }
+    70% { top: -0.2em; }
+    85% { top: -0.1em; }
+    100% { top: 0; }
+}
+@-moz-keyframes bounce {
+    0% { top: 0; }
+	
+</style>
+
+  	
+  	
+  </p>
+   
+   <div class="container">
+    <div class="bg-white shadow-sm rounded p-3">
+        
+      <strong><font size="4%">Install Aplikasi WACENTER</font></strong><br></p>Untuk melihat aplikasi buatan kami, silahkan klik tombol "Install Android" dibawah ini:
+
+<br></p><center>
+    
+     <!-- Pembukuan Mitra -->
+     
+     <i class="bounce">
+
+<a href="
+
+https://zonamaster.my.id/android/wacenter.apk
+
+" style="background-color:#FFBD05; float:left; text-decoration:none; border-radius:25px;box-shadow:0px 1px 2px rgba(0,0,0,0.3);font-size:90%; width:100%">
+<strong><font color="#ffffff">
+    
+    <center><table><td style="width:33%">
+    
+    <center><img src="https://zonamaster.my.id/img/logozonamaster.png" style="width:40px"></center>
+    
+    </td><td style="width:90%">
+    
+    <strong><font color="#000"><font size="4%">Install Android</font></font></strong>
+    
+    </font></strong>    </td></table></center></a></i><br></font></strong><center>
+    
+    Silahkan klik👆🏼<br></p>
+    
+
+    </div>
+     <div class="bg-white shadow-sm rounded p-3 mt-3">
+         
+         
+        <b>Cara Install</b>
+        <ol><font size="2%">
+        <li>Klik tombol "Install Android",</li>
+        <li>Ijinkan install,</li>
+        <li>Ikuti petunjuk selanjutnya,</li>
+        <li>Jika ada kendala, hubungi CS kami pukul 08:00-22:00 WIB dengan cara <a href="https://zonamaster.my.id/komplain">Klik Disini</a>.</li></font>
+       </ol>
+     </div><br></p>
+     
+     
+   </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+
+              
+function kirim(){
+    var nama = $('#nama').val();
+    var kota = $('#kota').val();
+    var text = encodeURIComponent("REG#248256#"+nama+"#"+kota)
+    var wa = "6281229008488"
+    window.location = 'https://wa.me/'+wa+"?text="+text
+}
+
+
+
+</script>
+</body>
+
+</html>
